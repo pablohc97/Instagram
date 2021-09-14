@@ -6,7 +6,7 @@
 
 ## Description
 
-Code to access your Instagram account using selenium and obtain your number of followers and followings. It also allows you to obtain the list of your followers and followings and therefore allows you to know who of your followers is not following you (not followback).
+Web scraping project to access your Instagram account using selenium and obtain your number of followers and followings. It also allows you to obtain the list of your followers and followings and therefore allows you to know who of your followers is not following you (not followback).
 
 It works as of 04/13/2021, but if the interface of the Instagram web changes, it can stop working.
 
