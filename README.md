@@ -1,7 +1,7 @@
 # Instagram
 
 <p>
-    <img src="https://i.blogs.es/759769/trucosinstagram/1366_2000.jpg" width="300" height="240" />
+    <img src="https://i.blogs.es/759769/trucosinstagram/1366_2000.jpg" width="340" height="240" />
 </p>
 
 ## Descripción
