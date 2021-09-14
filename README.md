@@ -4,14 +4,17 @@
     <img src="https://i.blogs.es/759769/trucosinstagram/1366_2000.jpg" width="340" height="240" />
 </p>
 
-## Descripción
+## Description
 
-Codigo para acceder a tu cuenta de Instagram mediante selenium y obtener tu número de followers y followings. También permite obtener la lista de followers y followings y calcular quien de las personas a las que sigue no te esta siguiendo (followback).
+Code to access your Instagram account using selenium and obtain your number of followers and followings. It also allows you to obtain the list of your followers and followings and therefore allows you to know who of your followers is not following you (not followback).
 
-Funciona a fecha 13/04/2021, pero en caso de que cambie interfaz de la web de Instagram dejaría de funcionar.
+It works as of 04/13/2021, but if the interface of the Instagram web changes, it can stop working.
 
-## Requerimientos
+## Requirements
 
-Es necesario descargar el archivo **chromedriver.exe** (https://sites.google.com/a/chromium.org/chromedriver/downloads) y ubicarlo en la misma carpeta que el script o indicar la ruta a él. 
+It is necessary to download the file ** chromedriver.exe ** (https://sites.google.com/a/chromium.org/chromedriver/downloads) and locate it in the same folder as the script or indicate the path to it.
 
-Para el login en Instagram, modificar el archivo **credentials.txt** para incluir en la primera linea el nombre de usuario y en la segunda linea la contraseña. Incluir en la misma carpeta que el script o indicar la ruta a él.
+For the login to your Instagram account, you have to modify the ** credentials.txt ** file to include the username in the first line and the password in the second line. Include in the same folder as the script or indicate the path to it.
+
+## Results
+
