@@ -18,3 +18,7 @@ For the login to your Instagram account, you have to modify the ** credentials.t
 
 ## Results
 
+- Number of followers.
+- Number of following.
+- Number of users not followbacking me.
+- Number of user I do not followback.
