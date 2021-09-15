@@ -14,7 +14,7 @@ It works as of 04/13/2021, but if the interface of the Instagram web changes, it
 
 It is necessary to download the file **chromedriver.exe** (you can download it from [here](https://sites.google.com/a/chromium.org/chromedriver/downloads)) and locate it in the same folder as the script or indicate the path to it.
 
-For the login to your Instagram account, you have to modify the ** credentials.txt ** file to include the username in the first line and the password in the second line. Include in the same folder as the script or indicate the path to it.
+For the login to your Instagram account, you have to modify the **credentials.txt** file to include the username in the first line and the password in the second line. Include in the same folder as the script or indicate the path to it.
 
 ## Results
 
